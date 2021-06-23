@@ -1,0 +1,28 @@
+{
+  "amigos": [
+    {
+      "id": 1,
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "valoracion": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Marta",
+      "apellido": "Rodríguez Vázquez",
+      "valoracion": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Manel",
+      "apellido": "Solà",
+      "valoracion": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Júlia",
+      "apellido": "Penya Rovira",
+      "valoracion": 1
+    }
+  ]
+}
